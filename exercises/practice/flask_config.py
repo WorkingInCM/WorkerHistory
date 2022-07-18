@@ -71,4 +71,4 @@ def login():
 
 if __name__ == '__main__':
     app.run(debug=True)
-    # 薪福通 xft-cs.paas.cmbchina.com 290686 绑定到本地访问
+    # 薪福通 xft-cs.paas.cmbchina.com 290686 绑定到本地访问 密码 123456
